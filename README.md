@@ -1,13 +1,13 @@
 # Task4-robot-movement-control
 **Creating a website to control the direction of the robot's movement, and a database of any type to store.**
-
-
-
 <pre>
 
+
+
+
+
+
 </pre>
-
-
 **-Here is the control page, contains four directions 'right, left, forward, backward' in addition to 'stop'. 
 when you click on any direction, this direction will be stored in the database I created.**
 
