@@ -1,0 +1,23 @@
+.container {
+    max-width: 35%;
+    display: flex;
+}
+
+
+img {
+    height: 100px;
+    width: 100px;
+    display: block;
+    align-self: center;
+}
+
+
+img:hover {
+    background-color: rgb(210, 210, 210);
+}
+
+
+span {
+    display: flex;
+    justify-content: space-evenly;
+}
